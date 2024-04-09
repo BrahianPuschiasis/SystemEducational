@@ -1,0 +1,667 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>DvS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>DvS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>DvS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.Compatibility" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="Microsoft.VisualBasic.Compatibility" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="1-Ingreso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1-Ingreso.Designer.vb">
+      <DependentUpon>1-Ingreso.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="10-AltaInstituto.Designer.vb">
+      <DependentUpon>10-AltaInstituto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="10-AltaInstituto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="11-BajaDocente.Designer.vb">
+      <DependentUpon>11-BajaDocente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="11-BajaDocente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="12-BajaAdministrativo.Designer.vb">
+      <DependentUpon>12-BajaAdministrativo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="12-BajaAdministrativo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="13-BajaAlumno.Designer.vb">
+      <DependentUpon>13-BajaAlumno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="13-BajaAlumno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="14-BajaGrupo.Designer.vb">
+      <DependentUpon>14-BajaGrupo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="14-BajaGrupo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="15-BajaAsignatura.Designer.vb">
+      <DependentUpon>15-BajaAsignatura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="15-BajaAsignatura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="16-BajaInstituto.Designer.vb">
+      <DependentUpon>16-BajaInstituto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="16-BajaInstituto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="17-BajaActaExamen.Designer.vb">
+      <DependentUpon>17-BajaActaExamen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="17-BajaActaExamen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="18-BajaActaFinal.Designer.vb">
+      <DependentUpon>18-BajaActaFinal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="18-BajaActaFinal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2-MenuPrincipalAdministrativo.Designer.vb">
+      <DependentUpon>2-MenuPrincipalAdministrativo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="2-MenuPrincipalAdministrativo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boletin.Designer.vb">
+      <DependentUpon>Boletin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Boletin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="historial.Designer.vb">
+      <DependentUpon>historial.vb</DependentUpon>
+    </Compile>
+    <Compile Include="historial.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarInstituto.Designer.vb">
+      <DependentUpon>ModificarInstituto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarInstituto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarPersona.Designer.vb">
+      <DependentUpon>ModificarPersona.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarPersona.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3-AltaDocente.Designer.vb">
+      <DependentUpon>3-AltaDocente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="3-AltaDocente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="33-MenuPrincipalDocente.Designer.vb">
+      <DependentUpon>33-MenuPrincipalDocente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="33-MenuPrincipalDocente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="4-AltaAdministrativo.Designer.vb">
+      <DependentUpon>4-AltaAdministrativo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="4-AltaAdministrativo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="5-AltaAlumno.Designer.vb">
+      <DependentUpon>5-AltaAlumno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="5-AltaAlumno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="6-AltaGrupo.Designer.vb">
+      <DependentUpon>6-AltaGrupo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="6-AltaGrupo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="7-AltaAsignatura.Designer.vb">
+      <DependentUpon>7-AltaAsignatura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="7-AltaAsignatura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="8-AltaActaExamen.Designer.vb">
+      <DependentUpon>8-AltaActaExamen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="8-AltaActaExamen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="9-AltaActaFinal.Designer.vb">
+      <DependentUpon>9-AltaActaFinal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="9-AltaActaFinal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="20-ModificacionAdministrativo.Designer.vb">
+      <DependentUpon>20-ModificacionAdministrativo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="20-ModificacionAdministrativo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="21-ModificacionAlumno.Designer.vb">
+      <DependentUpon>21-ModificacionAlumno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="21-ModificacionAlumno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="22-ModificacionGrupo.Designer.vb">
+      <DependentUpon>22-ModificacionGrupo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="22-ModificacionGrupo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="23-ModificacionAsignatura.Designer.vb">
+      <DependentUpon>23-ModificacionAsignatura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="23-ModificacionAsignatura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="24-ModificacionInstituto.Designer.vb">
+      <DependentUpon>24-ModificacionInstituto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="24-ModificacionInstituto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="25-ModificacionActaExamen.Designer.vb">
+      <DependentUpon>25-ModificacionActaExamen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="25-ModificacionActaExamen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="26-ModificacionActaFinal.Designer.vb">
+      <DependentUpon>26-ModificacionActaFinal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="26-ModificacionActaFinal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="27-ConsultaPersonas.Designer.vb">
+      <DependentUpon>27-ConsultaPersonas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="27-ConsultaPersonas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="28-ConsultaAsignatura.Designer.vb">
+      <DependentUpon>28-ConsultaAsignatura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="28-ConsultaAsignatura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="29-ConsultaGrupo.Designer.vb">
+      <DependentUpon>29-ConsultaGrupo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="29-ConsultaGrupo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="30-ConsultaInstituto.Designer.vb">
+      <DependentUpon>30-ConsultaInstituto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="30-ConsultaInstituto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="31-ConsultaActaExamen.Designer.vb">
+      <DependentUpon>31-ConsultaActaExamen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="31-ConsultaActaExamen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="32-ConsultaActaFinal.Designer.vb">
+      <DependentUpon>32-ConsultaActaFinal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="32-ConsultaActaFinal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="34-MenuPrincipalAlumno.Designer.vb">
+      <DependentUpon>34-MenuPrincipalAlumno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="34-MenuPrincipalAlumno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="35-Ingresar Nota Acta Examen.Designer.vb">
+      <DependentUpon>35-Ingresar Nota Acta Examen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="35-Ingresar Nota Acta Examen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="36-Ingrese Nota Acta Final.Designer.vb">
+      <DependentUpon>36-Ingrese Nota Acta Final.vb</DependentUpon>
+    </Compile>
+    <Compile Include="36-Ingrese Nota Acta Final.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="37-ModificarNotaActaExamen.Designer.vb">
+      <DependentUpon>37-ModificarNotaActaExamen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="37-ModificarNotaActaExamen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AltaOrientacion.Designer.vb">
+      <DependentUpon>AltaOrientacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AltaOrientacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AltaTcurso.Designer.vb">
+      <DependentUpon>AltaTcurso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AltaTcurso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CambioContraseña.Designer.vb">
+      <DependentUpon>CambioContraseña.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CambioContraseña.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaDatoPersonalAlumno.Designer.vb">
+      <DependentUpon>ConsultaDatoPersonalAlumno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaDatoPersonalAlumno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaDatosPersonales.Designer.vb">
+      <DependentUpon>ConsultaDatosPersonales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaDatosPersonales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaGrupoDocente.Designer.vb">
+      <DependentUpon>ConsultaGrupoDocente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaGrupoDocente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaNotaActaFinalDocente.Designer.vb">
+      <DependentUpon>ConsultaNotaActaFinalDocente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaNotaActaFinalDocente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funciones y Variables publicas.vb" />
+    <Compile Include="locacion.Designer.vb">
+      <DependentUpon>locacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="locacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGOINICIO.Designer.vb">
+      <DependentUpon>LOGOINICIO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LOGOINICIO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarNotaActaFinal.Designer.vb">
+      <DependentUpon>ModificarNotaActaFinal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarNotaActaFinal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NotasPersonales.Designer.vb">
+      <DependentUpon>NotasPersonales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NotasPersonales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrimerLogin.Designer.vb">
+      <DependentUpon>PrimerLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrimerLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="programa.Designer.vb">
+      <DependentUpon>programa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="programa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Verificar Acta Examen.Designer.vb">
+      <DependentUpon>Verificar Acta Examen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Verificar Acta Examen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VerificarActaFinal.Designer.vb">
+      <DependentUpon>VerificarActaFinal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VerificarActaFinal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="1-Ingreso.resx">
+      <DependentUpon>1-Ingreso.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="10-AltaInstituto.resx">
+      <DependentUpon>10-AltaInstituto.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="11-BajaDocente.resx">
+      <DependentUpon>11-BajaDocente.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="12-BajaAdministrativo.resx">
+      <DependentUpon>12-BajaAdministrativo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="13-BajaAlumno.resx">
+      <DependentUpon>13-BajaAlumno.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="14-BajaGrupo.resx">
+      <DependentUpon>14-BajaGrupo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="15-BajaAsignatura.resx">
+      <DependentUpon>15-BajaAsignatura.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="16-BajaInstituto.resx">
+      <DependentUpon>16-BajaInstituto.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="17-BajaActaExamen.resx">
+      <DependentUpon>17-BajaActaExamen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="18-BajaActaFinal.resx">
+      <DependentUpon>18-BajaActaFinal.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2-MenuPrincipalAdministrativo.resx">
+      <DependentUpon>2-MenuPrincipalAdministrativo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boletin.resx">
+      <DependentUpon>Boletin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="historial.resx">
+      <DependentUpon>historial.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarInstituto.resx">
+      <DependentUpon>ModificarInstituto.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarPersona.resx">
+      <DependentUpon>ModificarPersona.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3-AltaDocente.resx">
+      <DependentUpon>3-AltaDocente.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="33-MenuPrincipalDocente.resx">
+      <DependentUpon>33-MenuPrincipalDocente.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="4-AltaAdministrativo.resx">
+      <DependentUpon>4-AltaAdministrativo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="5-AltaAlumno.resx">
+      <DependentUpon>5-AltaAlumno.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="6-AltaGrupo.resx">
+      <DependentUpon>6-AltaGrupo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="7-AltaAsignatura.resx">
+      <DependentUpon>7-AltaAsignatura.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="8-AltaActaExamen.resx">
+      <DependentUpon>8-AltaActaExamen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="9-AltaActaFinal.resx">
+      <DependentUpon>9-AltaActaFinal.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="20-ModificacionAdministrativo.resx">
+      <DependentUpon>20-ModificacionAdministrativo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="21-ModificacionAlumno.resx">
+      <DependentUpon>21-ModificacionAlumno.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="22-ModificacionGrupo.resx">
+      <DependentUpon>22-ModificacionGrupo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="23-ModificacionAsignatura.resx">
+      <DependentUpon>23-ModificacionAsignatura.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="24-ModificacionInstituto.resx">
+      <DependentUpon>24-ModificacionInstituto.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="25-ModificacionActaExamen.resx">
+      <DependentUpon>25-ModificacionActaExamen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="26-ModificacionActaFinal.resx">
+      <DependentUpon>26-ModificacionActaFinal.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="27-ConsultaPersonas.resx">
+      <DependentUpon>27-ConsultaPersonas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="28-ConsultaAsignatura.resx">
+      <DependentUpon>28-ConsultaAsignatura.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="29-ConsultaGrupo.resx">
+      <DependentUpon>29-ConsultaGrupo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="30-ConsultaInstituto.resx">
+      <DependentUpon>30-ConsultaInstituto.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="31-ConsultaActaExamen.resx">
+      <DependentUpon>31-ConsultaActaExamen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="32-ConsultaActaFinal.resx">
+      <DependentUpon>32-ConsultaActaFinal.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="34-MenuPrincipalAlumno.resx">
+      <DependentUpon>34-MenuPrincipalAlumno.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="35-Ingresar Nota Acta Examen.resx">
+      <DependentUpon>35-Ingresar Nota Acta Examen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="36-Ingrese Nota Acta Final.resx">
+      <DependentUpon>36-Ingrese Nota Acta Final.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="37-ModificarNotaActaExamen.resx">
+      <DependentUpon>37-ModificarNotaActaExamen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AltaOrientacion.resx">
+      <DependentUpon>AltaOrientacion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AltaTcurso.resx">
+      <DependentUpon>AltaTcurso.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CambioContraseña.resx">
+      <DependentUpon>CambioContraseña.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaDatoPersonalAlumno.resx">
+      <DependentUpon>ConsultaDatoPersonalAlumno.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaDatosPersonales.resx">
+      <DependentUpon>ConsultaDatosPersonales.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaGrupoDocente.resx">
+      <DependentUpon>ConsultaGrupoDocente.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaNotaActaFinalDocente.resx">
+      <DependentUpon>ConsultaNotaActaFinalDocente.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="locacion.resx">
+      <DependentUpon>locacion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOGOINICIO.resx">
+      <DependentUpon>LOGOINICIO.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarNotaActaFinal.resx">
+      <DependentUpon>ModificarNotaActaFinal.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NotasPersonales.resx">
+      <DependentUpon>NotasPersonales.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrimerLogin.resx">
+      <DependentUpon>PrimerLogin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="programa.resx">
+      <DependentUpon>programa.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Verificar Acta Examen.resx">
+      <DependentUpon>Verificar Acta Examen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VerificarActaFinal.resx">
+      <DependentUpon>VerificarActaFinal.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

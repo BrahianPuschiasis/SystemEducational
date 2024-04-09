@@ -1,0 +1,10 @@
+[ODBC]
+DRIVER=MySQL ODBC 8.3 ANSI Driver
+UID={root}
+USER={root}
+SERVER=localhost
+PORT=3306
+PASSWORD={asease22}
+DATABASE={dvs3}
+NO_SCHEMA=1
+

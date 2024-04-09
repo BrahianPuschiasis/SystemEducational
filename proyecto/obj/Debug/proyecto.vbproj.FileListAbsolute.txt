@@ -1,0 +1,767 @@
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\bin\Debug\proyecto.xml
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\proyecto.xml
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form10.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form01.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form11.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form12.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form13.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form14.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form15.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form16.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form17.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form18.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form19.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form02.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form20.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form03.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form04.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form05.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form06.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form07.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form08.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form09.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form21.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form22.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form23.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form24.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form25.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form26.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form27.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form35.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form28.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form29.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form30.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form31.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form32.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form33.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form34.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form36.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form37.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form38.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\proyecto\obj\Debug\WindowsApplication1.Form39.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\proyecto.xml
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form35.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form01.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form10.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form11.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form12.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form13.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form14.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form15.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form16.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form17.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form18.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form19.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form02.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form20.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form03.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form04.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form05.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form06.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form07.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form08.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form09.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form21.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form22.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form23.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form24.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form25.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form26.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form27.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form28.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form29.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form30.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form31.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form32.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form33.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form34.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form36.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form37.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form38.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Form39.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\Sergio Maine\Desktop\Materias\Proyecto 2013 ex A.U.S (DvS)\Segunda Entrega\Programacion 3\Programa DvS\proyecto\proyecto\bin\Debug\proyecto.xml
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\proyecto.exe
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\proyecto.xml
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\proyecto.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\bin\Debug\proyecto.exe
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\bin\Debug\proyecto.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\bin\Debug\proyecto.xml
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.Ingreso.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaActaExamen.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaInstituto.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.BajaDocente.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAlumno.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.BajaGrupo.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAsignatura.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.BajaInstituto.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.BajaActaExamen.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.BajaActaFinal.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipal.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ModDocente.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaDocente.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAlumno.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaGrupo.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAsignatura.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaActaExamen.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaActaFinal.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ModAlumno.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ModGrupo.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ModAsignatura.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ModInstituto.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ModActaExamen.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ModActaFinal.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaPersona.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaAsignatura.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaGrupo.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaInstituto.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaActaFinal.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAdministrativo.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.modAdministrativo.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAdministrativo.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\proyecto.exe
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\proyecto.xml
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\proyecto.pdb
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\bin\Debug\proyecto.exe
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\bin\Debug\proyecto.pdb
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\bin\Debug\proyecto.xml
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.Ingreso.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.AltaInstituto.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.BajaDocente.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.BajaAdministrativo.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.BajaAlumno.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.BajaGrupo.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.BajaAsignatura.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.BajaInstituto.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.BajaActaExamen.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.BajaActaFinal.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.MenuPrincipal.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ModDocente.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.AltaDocente.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.AltaAdministrativo.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.AltaAlumno.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.AltaGrupo.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.AltaAsignatura.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.AltaActaExamen.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.AltaActaFinal.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.modAdministrativo.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ModAlumno.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ModGrupo.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ModAsignatura.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ModInstituto.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ModActaExamen.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ModActaFinal.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ConsultaPersona.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ConsultaAsignatura.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ConsultaGrupo.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ConsultaInstituto.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ConsultaActaExamen.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ConsultaActaFinal.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Brandon\Desktop\programaprogramacion\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\proyecto.exe
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\proyecto.xml
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\proyecto.pdb
+G:\programaprogramacion\programaprogramacion\proyecto\bin\Debug\proyecto.exe
+G:\programaprogramacion\programaprogramacion\proyecto\bin\Debug\proyecto.pdb
+G:\programaprogramacion\programaprogramacion\proyecto\bin\Debug\proyecto.xml
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\ResolveAssemblyReference.cache
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.Ingreso.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.AltaInstituto.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.BajaDocente.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.BajaAdministrativo.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.BajaAlumno.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.BajaGrupo.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.BajaAsignatura.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.BajaInstituto.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.BajaActaExamen.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.BajaActaFinal.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.MenuPrincipal.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ModDocente.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.AltaDocente.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.AltaAdministrativo.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.AltaAlumno.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.AltaGrupo.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.AltaAsignatura.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.AltaActaExamen.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.AltaActaFinal.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.modAdministrativo.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ModAlumno.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ModGrupo.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ModAsignatura.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ModInstituto.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ModActaExamen.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ModActaFinal.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ConsultaPersona.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ConsultaAsignatura.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ConsultaGrupo.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ConsultaInstituto.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ConsultaActaExamen.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.ConsultaActaFinal.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\WindowsApplication1.Resources.resources
+G:\programaprogramacion\programaprogramacion\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\proyecto.exe
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\proyecto.xml
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\proyecto.pdb
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\bin\Debug\proyecto.exe
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\bin\Debug\proyecto.pdb
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\bin\Debug\proyecto.xml
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.Ingreso.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaInstituto.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.BajaDocente.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAdministrativo.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAlumno.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.BajaGrupo.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAsignatura.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.BajaInstituto.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.BajaActaExamen.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.BajaActaFinal.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipal.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ModDocente.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaDocente.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAdministrativo.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAlumno.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaGrupo.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAsignatura.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaActaExamen.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaActaFinal.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.modAdministrativo.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ModAlumno.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ModGrupo.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ModAsignatura.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ModInstituto.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ModActaExamen.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ModActaFinal.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaPersona.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaAsignatura.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaGrupo.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaInstituto.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaActaExamen.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaActaFinal.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalDocente.resources
+C:\Users\its\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalAlumno.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\proyecto.exe
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\proyecto.xml
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\proyecto.pdb
+C:\Users\pc\Desktop\Projects\proyecto\bin\Debug\proyecto.exe
+C:\Users\pc\Desktop\Projects\proyecto\bin\Debug\proyecto.pdb
+C:\Users\pc\Desktop\Projects\proyecto\bin\Debug\proyecto.xml
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.Ingreso.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaInstituto.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.BajaDocente.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAdministrativo.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAlumno.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.BajaGrupo.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAsignatura.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.BajaInstituto.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.BajaActaExamen.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.BajaActaFinal.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipal.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModDocente.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaDocente.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalDocente.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAdministrativo.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAlumno.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaGrupo.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAsignatura.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaActaExamen.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaActaFinal.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.modAdministrativo.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModAlumno.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModGrupo.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModAsignatura.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModInstituto.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModActaExamen.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModActaFinal.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaPersona.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaAsignatura.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaGrupo.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaInstituto.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaActaExamen.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaActaFinal.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalAlumno.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.IngresarNotaActaExamen.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.IngreseNotaActaFinal.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModificarNotaActaExamen.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModificarNotaActaFinal.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaGrupoDocente.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaNotaActaFinalDocente.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaDatosPersonales.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaDatoPersonalAlumno.resources
+C:\Users\pc\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.NotasPersonales.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\proyecto.exe
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\proyecto.xml
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\proyecto.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\bin\Debug\proyecto.exe
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\bin\Debug\proyecto.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\bin\Debug\proyecto.xml
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.Ingreso.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaInstituto.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaDocente.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAdministrativo.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAlumno.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaGrupo.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAsignatura.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaInstituto.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaActaExamen.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaActaFinal.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModDocente.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaDocente.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalDocente.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAdministrativo.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAlumno.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaGrupo.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAsignatura.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaActaExamen.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaActaFinal.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.modAdministrativo.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModAlumno.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModGrupo.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModAsignatura.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModInstituto.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModActaExamen.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModActaFinal.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaPersona.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaAsignatura.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaGrupo.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaInstituto.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaActaExamen.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaActaFinal.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalAlumno.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.IngresarNotaActaExamen.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.IngreseNotaActaFinal.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModificarNotaActaExamen.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaDatoPersonalAlumno.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaDatosPersonales.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaGrupoDocente.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaNotaActaFinalDocente.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModificarNotaActaFinal.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.NotasPersonales.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalAdministrativo.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\proyecto.exe
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\proyecto.xml
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\proyecto.pdb
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\bin\Debug\proyecto.exe
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\bin\Debug\proyecto.pdb
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\bin\Debug\proyecto.xml
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.Ingreso.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaInstituto.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.BajaDocente.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAdministrativo.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAlumno.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.BajaGrupo.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAsignatura.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.BajaInstituto.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.BajaActaExamen.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.BajaActaFinal.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalAdministrativo.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModDocente.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaDocente.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalDocente.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAdministrativo.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAlumno.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaGrupo.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAsignatura.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaActaExamen.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaActaFinal.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.modAdministrativo.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModAlumno.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModGrupo.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModAsignatura.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModInstituto.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModActaExamen.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModActaFinal.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaPersona.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaAsignatura.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaGrupo.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaInstituto.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaActaExamen.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaActaFinal.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalAlumno.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.IngresarNotaActaExamen.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.IngreseNotaActaFinal.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModificarNotaActaExamen.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaDatoPersonalAlumno.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaDatosPersonales.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaGrupoDocente.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaNotaActaFinalDocente.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModificarNotaActaFinal.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.NotasPersonales.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.Altatcurso.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaOrientacion.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.Altalocacion.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\proyecto.exe
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\proyecto.xml
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\proyecto.pdb
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\bin\Debug\proyecto.exe
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\bin\Debug\proyecto.pdb
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\bin\Debug\proyecto.xml
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.Ingreso.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaInstituto.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.BajaDocente.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAdministrativo.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAlumno.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.BajaGrupo.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAsignatura.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.BajaInstituto.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.BajaActaExamen.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.BajaActaFinal.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalAdministrativo.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ModDocente.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaDocente.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalDocente.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAdministrativo.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAlumno.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaGrupo.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAsignatura.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaActaExamen.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaActaFinal.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.modAdministrativo.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ModAlumno.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ModGrupo.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ModAsignatura.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ModInstituto.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ModActaExamen.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ModActaFinal.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaPersona.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaAsignatura.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaGrupo.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaInstituto.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaActaExamen.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaActaFinal.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalAlumno.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.IngresarNotaActaExamen.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.IngreseNotaActaFinal.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ModificarNotaActaExamen.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.AltaOrientacion.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.Altatcurso.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaDatoPersonalAlumno.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaDatosPersonales.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaGrupoDocente.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaNotaActaFinalDocente.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.Altalocacion.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.ModificarNotaActaFinal.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.NotasPersonales.resources
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\aVA\Documents\Visual Studio 2008\Projects\proyecto\obj\Debug\WindowsApplication1.LOGOINICIO.resources
+C:\Users\Sergio Maine\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.LOGOINICIO.resources
+F:\Projects\proyecto\obj\Debug\proyecto.exe
+F:\Projects\proyecto\obj\Debug\proyecto.xml
+F:\Projects\proyecto\obj\Debug\proyecto.pdb
+F:\Projects\proyecto\bin\Debug\proyecto.exe
+F:\Projects\proyecto\bin\Debug\proyecto.pdb
+F:\Projects\proyecto\bin\Debug\proyecto.xml
+F:\Projects\proyecto\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.Ingreso.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.AltaInstituto.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.BajaDocente.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAdministrativo.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAlumno.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.BajaGrupo.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAsignatura.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.BajaInstituto.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.BajaActaExamen.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.BajaActaFinal.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalAdministrativo.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.ModDocente.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.AltaDocente.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalDocente.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAdministrativo.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAlumno.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.AltaGrupo.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAsignatura.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.AltaActaExamen.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.AltaActaFinal.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.modAdministrativo.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.ModAlumno.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.ModGrupo.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.ModAsignatura.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.ModInstituto.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.ModActaExamen.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.ModActaFinal.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaPersona.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaAsignatura.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaGrupo.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaInstituto.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaActaExamen.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaActaFinal.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalAlumno.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.IngresarNotaActaExamen.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.IngreseNotaActaFinal.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.ModificarNotaActaExamen.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.AltaOrientacion.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.Altatcurso.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaDatoPersonalAlumno.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaDatosPersonales.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaGrupoDocente.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaNotaActaFinalDocente.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.Altalocacion.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.LOGOINICIO.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.ModificarNotaActaFinal.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.Resources.resources
+F:\Projects\proyecto\obj\Debug\WindowsApplication1.NotasPersonales.resources
+F:\Projects\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\proyecto.exe
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\proyecto.xml
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\proyecto.pdb
+C:\Users\aVA\Desktop\Projects\proyecto\bin\Debug\proyecto.exe
+C:\Users\aVA\Desktop\Projects\proyecto\bin\Debug\proyecto.pdb
+C:\Users\aVA\Desktop\Projects\proyecto\bin\Debug\proyecto.xml
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.Ingreso.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaInstituto.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.BajaDocente.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAdministrativo.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAlumno.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.BajaGrupo.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAsignatura.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.BajaInstituto.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.BajaActaExamen.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.BajaActaFinal.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalAdministrativo.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModDocente.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaDocente.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalDocente.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAdministrativo.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAlumno.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaGrupo.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAsignatura.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaActaExamen.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaActaFinal.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.modAdministrativo.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModAlumno.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModGrupo.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModAsignatura.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModInstituto.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModActaExamen.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModActaFinal.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaPersona.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaAsignatura.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaGrupo.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaInstituto.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaActaExamen.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaActaFinal.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalAlumno.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.IngresarNotaActaExamen.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.IngreseNotaActaFinal.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModificarNotaActaExamen.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.AltaOrientacion.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.Altatcurso.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaDatoPersonalAlumno.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaDatosPersonales.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaGrupoDocente.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaNotaActaFinalDocente.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.Altalocacion.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.LOGOINICIO.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.ModificarNotaActaFinal.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\WindowsApplication1.NotasPersonales.resources
+C:\Users\aVA\Desktop\Projects\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\proyecto.exe
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\proyecto.xml
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\proyecto.pdb
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\bin\Debug\proyecto.exe
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\bin\Debug\proyecto.pdb
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\bin\Debug\proyecto.xml
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.Ingreso.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaInstituto.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaDocente.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAdministrativo.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAlumno.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaGrupo.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAsignatura.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaInstituto.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaActaExamen.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaActaFinal.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalAdministrativo.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModDocente.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaDocente.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalDocente.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAdministrativo.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAlumno.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaGrupo.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAsignatura.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaActaExamen.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaActaFinal.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.modAdministrativo.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModAlumno.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModGrupo.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModAsignatura.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModInstituto.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModActaExamen.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModActaFinal.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaPersona.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaAsignatura.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaGrupo.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaInstituto.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaActaExamen.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaActaFinal.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalAlumno.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.IngresarNotaActaExamen.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.IngreseNotaActaFinal.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModificarNotaActaExamen.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaOrientacion.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.Altatcurso.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaDatoPersonalAlumno.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaDatosPersonales.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaGrupoDocente.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaNotaActaFinalDocente.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.Altalocacion.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.LOGOINICIO.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModificarNotaActaFinal.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.NotasPersonales.resources
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.CambioContraseña.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\proyecto.exe
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\proyecto.xml
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\proyecto.pdb
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\bin\Debug\proyecto.exe
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\bin\Debug\proyecto.pdb
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\bin\Debug\proyecto.xml
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.Ingreso.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaInstituto.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaDocente.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAdministrativo.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAlumno.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaGrupo.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAsignatura.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaInstituto.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaActaExamen.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaActaFinal.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalAdministrativo.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModDocente.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaDocente.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalDocente.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAdministrativo.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAlumno.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaGrupo.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAsignatura.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaActaExamen.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaActaFinal.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.modAdministrativo.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModAlumno.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModGrupo.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModAsignatura.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModInstituto.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModActaExamen.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModActaFinal.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaPersona.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaAsignatura.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaGrupo.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaInstituto.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaActaExamen.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaActaFinal.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalAlumno.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.IngresarNotaActaExamen.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.IngreseNotaActaFinal.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModificarNotaActaExamen.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaOrientacion.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.Altatcurso.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.CambioContraseña.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaDatoPersonalAlumno.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaDatosPersonales.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaGrupoDocente.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaNotaActaFinalDocente.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.Altalocacion.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.LOGOINICIO.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModificarNotaActaFinal.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.NotasPersonales.resources
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\aVA\Desktop\proyectodvs\proyecto\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ListadoActaFinal.resources
+G:\Projects\Projects\proyecto\obj\Debug\proyecto.exe
+G:\Projects\Projects\proyecto\obj\Debug\proyecto.xml
+G:\Projects\Projects\proyecto\obj\Debug\proyecto.pdb
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\proyecto.exe
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\proyecto.xml
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\proyecto.pdb
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\bin\Debug\proyecto.exe
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\bin\Debug\proyecto.pdb
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\bin\Debug\proyecto.xml
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.Ingreso.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaInstituto.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaDocente.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAdministrativo.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAlumno.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaGrupo.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaAsignatura.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaInstituto.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaActaExamen.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.BajaActaFinal.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalAdministrativo.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModDocente.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaDocente.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalDocente.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAdministrativo.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAlumno.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaGrupo.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaAsignatura.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaActaExamen.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaActaFinal.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.modAdministrativo.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModAlumno.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModGrupo.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModAsignatura.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModInstituto.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModActaExamen.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModActaFinal.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaAsignatura.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaGrupo.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaInstituto.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaActaExamen.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaActaFinal.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.MenuPrincipalAlumno.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.IngresarNotaActaExamen.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.IngreseNotaActaFinal.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModificarNotaActaExamen.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.AltaOrientacion.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.Altatcurso.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.CambioContraseña.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaDatoPersonalAlumno.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaDatosPersonales.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaGrupoDocente.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ConsultaNotaActaFinalDocente.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ListadoActaFinal.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.Altalocacion.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.LOGOINICIO.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.ModificarNotaActaFinal.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.NotasPersonales.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.CmbConsultaListado.resources
+C:\Users\pc\Documents\ProyectoDvS\Projects\Projects\proyecto\obj\Debug\WindowsApplication1.VerificarActaFinal.resources
