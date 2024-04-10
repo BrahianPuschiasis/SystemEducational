@@ -41,7 +41,7 @@
         End Try
 
 
-        sql1 = "SELECT ci from dictan where ci= " & cilogin & " and activo='Activo' and aniodictado= " & Now.Year & ""
+        sql1 = "SELECT ci from dictan where ci= " & cilogin & " and activo='Activo' and anio= " & Now.Year & ""
         Cmd.CommandText = sql1
         Try
             docente = Cmd.ExecuteScalar

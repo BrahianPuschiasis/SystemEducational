@@ -97,89 +97,92 @@ Public Class Boletin
             Print(1, "")
             FileClose(1)
             FileOpen(1, "BoletinCalificaciones.html", OpenMode.Append)
-            rep = "<html  lang='es'>" & _
-                    "<head>" & _
-                      "<meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>" & _
-                      "<title>Boletin Calificaciones</title>" & _
-                      "<style type='text/css'>" & _
-        "#apDiv1 {" & _
-        "position: absolute;" & _
-        "width: 342px;" & _
-        "height: 20px;" & _
-        "z-index: 1;" & _
-        "left: 209px;" & _
-        "top: 38px;" & _
-        "}" & _
-        "#apDiv2 {" & _
-        "position: absolute;" & _
-        "width: 900px;" & _
-        "height: 130px;" & _
-        "z-index: 2;" & _
-        "left: 9px;" & _
-        "top: 145px;" & _
-        "}" & _
-        "#apDiv3 {" & _
-        "position: absolute;" & _
-        "width: 900px;" & _
-        "height: 20px;" & _
-        "z-index: 3;" & _
-        "left: 7px;" & _
-        "top: 322px;" & _
-        "}" & _
-        "#apDiv4 {" & _
-        "position: absolute;" & _
-        "width: 900px;" & _
-        "height: 306px;" & _
-        "z-index: 4;" & _
-        "left: 8px;" & _
-        "top: 342px;" & _
-        "}" & _
-        "#apDiv5 { " & _
-        "position: absolute;" & _
-        "width: 900px;" & _
-        "height: 66px;" & _
-        "z-index: 5;" & _
-        "left: 8px;" & _
-        "top: 654px;" & _
-        "}" & _
-        "#apDiv6 {" & _
-        "position: absolute;" & _
-        "width: 450px;" & _
-        "height: 79px;" & _
-        "z-index: 6;" & _
-        "left: 11;" & _
-        "top: 745px;" & _
-        "}" & _
-        "#apDiv7 {" & _
-        "position: absolute;" & _
-        "width: 450px;" & _
-        "height: 80px;" & _
-        "z-index: 5;" & _
-        "left: 461px;" & _
-        "top: 745px;" & _
-        "}" & _
-        "#apDiv8 {" & _
-        "position: absolute;" & _
-        "width: 200px;" & _
-        "height: 137px;" & _
-        "z-index: 2;" & _
-        "left: 8px;" & _
-        "top: 8px;" & _
-        "}" & _
-        "</style>" & _
-        "</head>" & _
-        "<body>" & _
-        "<div id='apDiv1'>" & _
-        "<div align='center'>BOLETIN DE CALIFICACIONES</div>" & _
+            rep = "<html  lang='es'>" &
+                    "<head>" &
+                      "<meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>" &
+                      "<title>Boletin Calificaciones</title>" &
+                      "<style type='text/css'>" &
+        "#apDiv1 {" &
+        "position: absolute;" &
+        "width: 342px;" &
+        "height: 20px;" &
+        "z-index: 1;" &
+        "left: 209px;" &
+        "top: 38px;" &
+        "}" &
+        "#apDiv2 {" &
+        "position: absolute;" &
+        "width: 900px;" &
+        "height: 130px;" &
+        "z-index: 2;" &
+        "left: 9px;" &
+        "top: 145px;" &
+        "}" &
+        "#apDiv3 {" &
+        "position: absolute;" &
+        "width: 900px;" &
+        "height: 20px;" &
+        "z-index: 3;" &
+        "left: 7px;" &
+        "top: 322px;" &
+        "}" &
+        "#apDiv4 {" &
+        "position: absolute;" &
+        "width: 900px;" &
+        "height: 306px;" &
+        "z-index: 4;" &
+        "left: 8px;" &
+        "top: 342px;" &
+        "}" &
+        "#apDiv5 { " &
+        "position: absolute;" &
+        "width: 900px;" &
+        "height: 66px;" &
+        "z-index: 5;" &
+        "left: 8px;" &
+        "top: 654px;" &
+        "}" &
+        "#apDiv6 {" &
+        "position: absolute;" &
+        "width: 450px;" &
+        "height: 79px;" &
+        "z-index: 6;" &
+        "left: 11;" &
+        "top: 745px;" &
+        "}" &
+        "#apDiv7 {" &
+        "position: absolute;" &
+        "width: 450px;" &
+        "height: 80px;" &
+        "z-index: 5;" &
+        "left: 461px;" &
+        "top: 745px;" &
+        "}" &
+        "#apDiv8 {" &
+        "position: absolute;" &
+        "width: 200px;" &
+        "height: 137px;" &
+        "z-index: 2;" &
+        "left: 8px;" &
+        "top: 8px;" &
+        "}" &
+        "</style>" &
+        "</head>" &
+        "<body>" &
+        "<div id='apDiv1'>" &
+        "<div align='center'>BOLETIN DE CALIFICACIONES</div>" &
         "</div>"
             'consultas
+
             Dim contador As Integer
             sql1 = "select count(*) from concurren where idgrupo=" & idgrupo & ""
+
             Cmd.CommandText = sql1
             contador = Cmd.ExecuteScalar
 
             sql = "select nombre1,apaterno,amaterno,nombre2,aniocursado,count(*) from personas,concurren where personas.ci=" & cedulas & " and concurren.ci=" & cedulas & " group by nombre1,apaterno,aniocursado,amaterno,nombre2 "
             Cmd.CommandText = sql
+
             Dim datosalumno As OdbcDataReader
 
             datosalumno = Cmd.ExecuteReader()
@@ -189,15 +192,15 @@ Public Class Boletin
                 Dim completo As String
                 completo = datosalumno("apaterno") + " " + datosalumno("amaterno") + " " + "," + datosalumno("nombre1") + " " + datosalumno("nombre2")
 
-                rep = rep & "<div id='apDiv2'>" & _
-                      " <table width='900' height='120' border='1'>" & _
-                        "<tr>" & _
-                          "<td width='95' height='30'>Nombre:</td>" & _
-                          "<td height='30' colspan='2'>" & completo & "  </td>" & _
-                          "<td width='92' height='30'>Nº Lista:</td>" & _
-                          "<td width='97' height='30'>" & contador & " </td>" & _
-                          "<td width='167' height='30'>Anio Lectivo:</td>" & _
-                          "<td width='96' height='30'>" & datosalumno("aniocursado") & "</td>" & _
+                rep = rep & "<div id='apDiv2'>" &
+                      " <table width='900' height='120' border='1'>" &
+                        "<tr>" &
+                          "<td width='95' height='30'>Nombre:</td>" &
+                          "<td height='30' colspan='2'>" & completo & "  </td>" &
+                          "<td width='92' height='30'>Nº Lista:</td>" &
+                          "<td width='97' height='30'>" & contador & " </td>" &
+                          "<td width='167' height='30'>Anio Lectivo:</td>" &
+                          "<td width='96' height='30'>" & datosalumno("aniocursado") & "</td>" &
                         "</tr>"
             End While
             datosalumno.Close()
@@ -208,9 +211,9 @@ Public Class Boletin
             Dim escuela As OdbcDataReader
             escuela = Cmd.ExecuteReader()
             While escuela.Read
-                rep = rep & "<tr>" & _
-                          "<td width='95' height='30'>Escuela:</td>" & _
-                          "<td width='112' height='30'>" & escuela("idinst") & "</td>" & _
+                rep = rep & "<tr>" &
+                          "<td width='95' height='30'>Escuela:</td>" &
+                          "<td width='112' height='30'>" & escuela("idinst") & "</td>" &
                           " <td height='30' colspan='2'>" & escuela("nombre") & "</td>"
             End While
             escuela.Close()
@@ -221,8 +224,8 @@ Public Class Boletin
             Dim numdoc As OdbcDataReader
             numdoc = Cmd.ExecuteReader()
             While numdoc.Read
-                rep = rep & "<td width='97' height='30'>Doc:</td>" & _
-                              "<td width='167' height='30'>" & numdoc("ci") & "</td>" & _
+                rep = rep & "<td width='97' height='30'>Doc:</td>" &
+                              "<td width='167' height='30'>" & numdoc("ci") & "</td>" &
                             "</tr>"
             End While
             numdoc.Close()
@@ -241,16 +244,16 @@ Public Class Boletin
                 nombre = grupo("nombre")
                 orientacion = grupo("orientacion")
                 grupo2 = orientacion + nombre
-                rep = rep & "<tr>" & _
-                              "<td width='95' height='30'>Grupo:</td>" & _
+                rep = rep & "<tr>" &
+                              "<td width='95' height='30'>Grupo:</td>" &
                               "<td height='30' colspan='2'>" & grupo2 & "</td>"
 
             End While
             grupo.Close()
 
             'consultas
-            rep = rep & "<td width='92' height='30'>Anio:</td>" & _
-                          " <td height='30'>" & grado & "</td>" & _
+            rep = rep & "<td width='92' height='30'>Anio:</td>" &
+                          " <td height='30'>" & grado & "</td>" &
                         "</tr>"
 
             'consultas
@@ -259,9 +262,9 @@ Public Class Boletin
             Dim tipocurso As OdbcDataReader
             tipocurso = Cmd.ExecuteReader()
             While tipocurso.Read
-                rep = rep & "<tr>" & _
-                              " <td width='95' height='30'>Tipo de Curso:</td>" & _
-                              "<td height='30'>" & tipocurso("idcurso") & "</td>" & _
+                rep = rep & "<tr>" &
+                              " <td width='95' height='30'>Tipo de Curso:</td>" &
+                              "<td height='30'>" & tipocurso("idcurso") & "</td>" &
                               "<td width='195' height='30'>" & tipocurso("completo") & "</td>"
             End While
             tipocurso.Close()
@@ -274,26 +277,26 @@ Public Class Boletin
             Dim curso As OdbcDataReader
             curso = Cmd.ExecuteReader()
             While curso.Read
-                rep = rep & "<td height='30'>Curso:</td>" & _
-                              "<td height='30'>" & curso("idori") & "</td>" & _
-                              "<td height='30' colspan='2'>" & curso("completo") & "</td>" & _
-                            "</tr>" & _
-                          "</table>" & _
+                rep = rep & "<td height='30'>Curso:</td>" &
+                              "<td height='30'>" & curso("idori") & "</td>" &
+                              "<td height='30' colspan='2'>" & curso("completo") & "</td>" &
+                            "</tr>" &
+                          "</table>" &
                         "</div>"
             End While
             curso.Close()
 
 
-            rep = rep & "<div id='apDiv3'>" & _
-                            "<div align='center'>Reunion final</div>" & _
-                        "</div>" & _
-        "<div id='apDiv4'>" & _
-        "<table width='900' border='1'>" & _
-        "<tr>" & _
-          "<td width='162' height='20'><div align='center'>Asignatura</div></td>" & _
-          "<td width='162' height='20'><div align='center'>Inasistencias</div></td>" & _
-          "<td width='163' height='20'><div align='center'>Rendimiento</div></td>" & _
-          "<td width='163' height='20'><div align='center'>Calidad</div></td>" & _
+            rep = rep & "<div id='apDiv3'>" &
+                            "<div align='center'>Reunion final</div>" &
+                        "</div>" &
+        "<div id='apDiv4'>" &
+        "<table width='900' border='1'>" &
+        "<tr>" &
+          "<td width='162' height='20'><div align='center'>Asignatura</div></td>" &
+          "<td width='162' height='20'><div align='center'>Inasistencias</div></td>" &
+          "<td width='163' height='20'><div align='center'>Rendimiento</div></td>" &
+          "<td width='163' height='20'><div align='center'>Calidad</div></td>" &
         "</tr>"
             'consultas
             sql = "select cursan.nota,cursan.inasistencias,asignatura.nombre,cursan.fallo from cursan,grupo,asignatura where cursan.ci=" & cilogin & " and cursan.idasig = asignatura.idasig group by cursan.nota,cursan.inasistencias,asignatura.nombre,cursan.fallo"
@@ -301,15 +304,15 @@ Public Class Boletin
             Dim notas As OdbcDataReader
             notas = Cmd.ExecuteReader()
             While notas.Read
-                rep = rep & "<tr>" & _
-                              "<td width='162' height='20'>" & notas("nombre") & "</td>" & _
-                              "<td width='162' height='20'>" & notas("inasistencias") & "</td>" & _
-                              "<td width='163' height='20'>" & notas("nota") & "</td>" & _
-                              "<td width='163' height='20'></td>" & _
+                rep = rep & "<tr>" &
+                              "<td width='162' height='20'>" & notas("nombre") & "</td>" &
+                              "<td width='162' height='20'>" & notas("inasistencias") & "</td>" &
+                              "<td width='163' height='20'>" & notas("nota") & "</td>" &
+                              "<td width='163' height='20'></td>" &
                             "</tr>"
             End While
             notas.Close()
-            rep = rep & "</table>" & _
+            rep = rep & "</table>" &
                         "</div>"
             'consultas
             sql = "select nombre1 from personas where ci= " & cilogin & ""
@@ -317,10 +320,10 @@ Public Class Boletin
             Dim falloglobal As OdbcDataReader
             falloglobal = Cmd.ExecuteReader()
             While falloglobal.Read
-                rep = rep & "<div id='apDiv5'>" & _
-                          "<table width='900' height='64' border='1'>" & _
-                            "<tr>" & _
-                              "<td width='98' height='30'>Fallo Global:</td>" & _
+                rep = rep & "<div id='apDiv5'>" &
+                          "<table width='900' height='64' border='1'>" &
+                            "<tr>" &
+                              "<td width='98' height='30'>Fallo Global:</td>" &
                               "<td width='97' height='30'></td>"
             End While
             falloglobal.Close()
@@ -331,7 +334,7 @@ Public Class Boletin
             Dim calglobal As OdbcDataReader
             calglobal = Cmd.ExecuteReader()
             While calglobal.Read
-                rep = rep & "<td width='128' height='30'>Calificacion Global:</td>" & _
+                rep = rep & "<td width='128' height='30'>Calificacion Global:</td>" &
                               "<td width='109' height='30'></td>"
             End While
             calglobal.Close()
@@ -342,8 +345,8 @@ Public Class Boletin
             Dim conducta As OdbcDataReader
             conducta = Cmd.ExecuteReader()
             While conducta.Read
-                rep = rep & " <td width='109' height='30'>Conducta:</td>" & _
-                              "<td width='109' height='30'></td>" & _
+                rep = rep & " <td width='109' height='30'>Conducta:</td>" &
+                              "<td width='109' height='30'></td>" &
                             "</tr>"
             End While
             conducta.Close()
@@ -354,28 +357,28 @@ Public Class Boletin
             Dim juicioglobal As OdbcDataReader
             juicioglobal = Cmd.ExecuteReader()
             While juicioglobal.Read
-                rep = rep & "<tr>" & _
-                              "<td height='30'>Juicio Global:</td>" & _
-                              "<td height='30'></td>" & _
-                            "</tr>" & _
-                            "</table>" & _
+                rep = rep & "<tr>" &
+                              "<td height='30'>Juicio Global:</td>" &
+                              "<td height='30'></td>" &
+                            "</tr>" &
+                            "</table>" &
                         "</div>"
             End While
             juicioglobal.Close()
 
 
-            rep = rep & "<div id='apDiv6'>" & _
-                          "<p>Por el instituto: _____________________</p>" & _
-                        "</div>" & _
-                        "<div id='apDiv7'>" & _
-                          "<p align='center'>	Sello</p>" & _
-                        "</div>" & _
-                        "<div id='apDiv8'>" & _
-                          "<div align='center'><strong>ANEP </strong></div>" & _
-                          "<p align='center'>CONSEJO DE EDUCACION  TECNICO PROFESIONAL  (Universidad del trabajo  del Uruguay)</p>" & _
+            rep = rep & "<div id='apDiv6'>" &
+                          "<p>Por el instituto: _____________________</p>" &
+                        "</div>" &
+                        "<div id='apDiv7'>" &
+                          "<p align='center'>	Sello</p>" &
+                        "</div>" &
+                        "<div id='apDiv8'>" &
+                          "<div align='center'><strong>ANEP </strong></div>" &
+                          "<p align='center'>CONSEJO DE EDUCACION  TECNICO PROFESIONAL  (Universidad del trabajo  del Uruguay)</p>" &
                         "</div>"
 
-            rep = rep & "</body>" & _
+            rep = rep & "</body>" &
                         "</html>"
             Print(1, rep)
 
@@ -385,9 +388,10 @@ Public Class Boletin
 
             webbrowser.Visible = True
             webbrowser.Navigate("File:" & Application.StartupPath & "\BoletinCalificaciones.html")
-        Catch
-            MsgBox("No")
+        Catch ex As Exception
+            MessageBox.Show("Ha ocurrido un error: " & ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
         End Try
+
     End Sub
 
     Private Sub btnimprimirpdf_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnimprimirpdf.Click
@@ -455,5 +459,9 @@ Public Class Boletin
             MsgBox("Presione el botón 'Listar' para poder ver el boletin del alumno " & cilogin & " ")
 
         End If
+    End Sub
+
+    Private Sub txtgrupo_TextChanged(sender As Object, e As EventArgs) Handles txtgrupo.TextChanged
+
     End Sub
 End Class

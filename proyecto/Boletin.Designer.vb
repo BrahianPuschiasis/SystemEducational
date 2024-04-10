@@ -22,24 +22,24 @@ Partial Class Boletin
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.components = New System.ComponentModel.Container
+        Me.components = New System.ComponentModel.Container()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Boletin))
-        Me.logo = New System.Windows.Forms.PictureBox
-        Me.lblfecha2 = New System.Windows.Forms.Label
-        Me.lblhora2 = New System.Windows.Forms.Label
-        Me.Label1 = New System.Windows.Forms.Label
-        Me.lblhora1 = New System.Windows.Forms.Label
+        Me.logo = New System.Windows.Forms.PictureBox()
+        Me.lblfecha2 = New System.Windows.Forms.Label()
+        Me.lblhora2 = New System.Windows.Forms.Label()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.lblhora1 = New System.Windows.Forms.Label()
         Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
-        Me.webbrowser = New System.Windows.Forms.WebBrowser
-        Me.cmbGrupo = New System.Windows.Forms.ComboBox
-        Me.Label2 = New System.Windows.Forms.Label
-        Me.btnBoletin = New System.Windows.Forms.Button
-        Me.File = New System.Windows.Forms.SaveFileDialog
-        Me.PrintDialog1 = New System.Windows.Forms.PrintDialog
-        Me.btnimprimirpdf = New System.Windows.Forms.Button
-        Me.DGVConsulta = New System.Windows.Forms.DataGridView
-        Me.txtgrupo = New System.Windows.Forms.TextBox
-        Me.btnGrupoL = New System.Windows.Forms.Button
+        Me.webbrowser = New System.Windows.Forms.WebBrowser()
+        Me.cmbGrupo = New System.Windows.Forms.ComboBox()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.btnBoletin = New System.Windows.Forms.Button()
+        Me.File = New System.Windows.Forms.SaveFileDialog()
+        Me.PrintDialog1 = New System.Windows.Forms.PrintDialog()
+        Me.btnimprimirpdf = New System.Windows.Forms.Button()
+        Me.DGVConsulta = New System.Windows.Forms.DataGridView()
+        Me.txtgrupo = New System.Windows.Forms.TextBox()
+        Me.btnGrupoL = New System.Windows.Forms.Button()
         CType(Me.logo, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.DGVConsulta, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -160,7 +160,7 @@ Partial Class Boletin
         Me.DGVConsulta.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells
         Me.DGVConsulta.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllHeaders
         Me.DGVConsulta.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DGVConsulta.Location = New System.Drawing.Point(23, 170)
+        Me.DGVConsulta.Location = New System.Drawing.Point(12, 149)
         Me.DGVConsulta.MultiSelect = False
         Me.DGVConsulta.Name = "DGVConsulta"
         Me.DGVConsulta.ReadOnly = True

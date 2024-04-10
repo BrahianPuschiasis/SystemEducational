@@ -488,17 +488,27 @@
             txtInstituto.Visible = False
             lblInstituto.Visible = False
             Try
-                sql = "SELECT actaf.n_actaf,personas.ci,personas.apaterno,cursan.nota,cursan.inasistencias,cursan.fallo,asignatura.nombre from personas,cursan,asignatura,actaf where personas.ci = cursan.ci and cursan.idasig = asignatura.idasig and asignatura.idasig = " & txtAsignatura.Text & " and actaf.n_actaf = " & txtActaFinal.Text & " and cursan.n_actaf = actaf.n_actaf group by actaf.n_actaf,personas.ci,personas.apaterno,personas.nombre1,cursan.nota,cursan.inasistencias,asignatura.nombre,cursan.fallo order by personas.apaterno "
+                Dim sql As String = "SELECT actaf.n_actaf, personas.ci, personas.apaterno, cursan.nota, cursan.inasistencias, cursan.fallo, asignatura.nombre " &
+                                    "FROM personas, cursan, asignatura, actaf " &
+                                    "WHERE personas.ci = cursan.ci " &
+                                    "AND cursan.idasig = asignatura.idasig " &
+                                    "AND asignatura.idasig = " & txtAsignatura.Text & " " &
+                                    "AND actaf.n_actaf = " & txtActaFinal.Text & " " &
+                                    "AND cursan.n_actaf = actaf.n_actaf " &
+                                    "GROUP BY actaf.n_actaf, personas.ci, personas.apaterno, cursan.nota, cursan.inasistencias, asignatura.nombre, cursan.fallo " &
+                                    "ORDER BY personas.apaterno"
 
                 Cmd.CommandText = sql
 
                 Dim da As New Odbc.OdbcDataAdapter(sql, conect)
+                Dim Ds As New DataSet()
                 da.Fill(Ds, "personas")
 
                 DGVConsulta.DataSource = Ds.Tables("personas")
-            Catch
-                MsgBox(ErrorToString)
+            Catch ex As Exception
+                MsgBox(ex.Message)
             End Try
+
         End If
 
         conect.Close()

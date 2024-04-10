@@ -22,29 +22,29 @@ Partial Class MenuPrincipalDocente
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.components = New System.ComponentModel.Container
+        Me.components = New System.ComponentModel.Container()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(MenuPrincipalDocente))
-        Me.MenuStrip1 = New System.Windows.Forms.MenuStrip
-        Me.ActaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
-        Me.ActaDeExamenToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
-        Me.ActaFinalToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
-        Me.NotasToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
-        Me.ExamenesToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
-        Me.IngresarToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
-        Me.VerificarToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
-        Me.NotasToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem
-        Me.ConsultaToolStripMenuItem3 = New System.Windows.Forms.ToolStripMenuItem
-        Me.DatosPersonalesToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
-        Me.btndcerrarsesion = New System.Windows.Forms.Button
-        Me.logo = New System.Windows.Forms.PictureBox
-        Me.lblfecha2 = New System.Windows.Forms.Label
-        Me.lblhora2 = New System.Windows.Forms.Label
-        Me.lblfecha = New System.Windows.Forms.Label
-        Me.lblhora1 = New System.Windows.Forms.Label
-        Me.GroupBox1 = New System.Windows.Forms.GroupBox
+        Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
+        Me.ActaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ActaDeExamenToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ActaFinalToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.NotasToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ExamenesToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.IngresarToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.VerificarToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.NotasToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ConsultaToolStripMenuItem3 = New System.Windows.Forms.ToolStripMenuItem()
+        Me.DatosPersonalesToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.btndcerrarsesion = New System.Windows.Forms.Button()
+        Me.logo = New System.Windows.Forms.PictureBox()
+        Me.lblfecha2 = New System.Windows.Forms.Label()
+        Me.lblhora2 = New System.Windows.Forms.Label()
+        Me.lblfecha = New System.Windows.Forms.Label()
+        Me.lblhora1 = New System.Windows.Forms.Label()
+        Me.GroupBox1 = New System.Windows.Forms.GroupBox()
         Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
-        Me.btnConfiguracion = New System.Windows.Forms.Button
-        Me.btnsalir = New System.Windows.Forms.Button
+        Me.btnConfiguracion = New System.Windows.Forms.Button()
+        Me.btnsalir = New System.Windows.Forms.Button()
         Me.MenuStrip1.SuspendLayout()
         CType(Me.logo, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox1.SuspendLayout()
@@ -65,50 +65,50 @@ Partial Class MenuPrincipalDocente
         '
         Me.ActaToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ActaDeExamenToolStripMenuItem, Me.ActaFinalToolStripMenuItem, Me.NotasToolStripMenuItem})
         Me.ActaToolStripMenuItem.Name = "ActaToolStripMenuItem"
-        Me.ActaToolStripMenuItem.Size = New System.Drawing.Size(74, 19)
-        Me.ActaToolStripMenuItem.Text = "Reuniones"
+        Me.ActaToolStripMenuItem.Size = New System.Drawing.Size(72, 19)
+        Me.ActaToolStripMenuItem.Text = "Examenes"
         '
         'ActaDeExamenToolStripMenuItem
         '
         Me.ActaDeExamenToolStripMenuItem.Name = "ActaDeExamenToolStripMenuItem"
-        Me.ActaDeExamenToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.ActaDeExamenToolStripMenuItem.Size = New System.Drawing.Size(116, 22)
         Me.ActaDeExamenToolStripMenuItem.Text = "Ingresar"
         '
         'ActaFinalToolStripMenuItem
         '
         Me.ActaFinalToolStripMenuItem.Name = "ActaFinalToolStripMenuItem"
-        Me.ActaFinalToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.ActaFinalToolStripMenuItem.Size = New System.Drawing.Size(116, 22)
         Me.ActaFinalToolStripMenuItem.Text = "Verificar"
         '
         'NotasToolStripMenuItem
         '
         Me.NotasToolStripMenuItem.Name = "NotasToolStripMenuItem"
-        Me.NotasToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.NotasToolStripMenuItem.Size = New System.Drawing.Size(116, 22)
         Me.NotasToolStripMenuItem.Text = "Notas"
         '
         'ExamenesToolStripMenuItem
         '
         Me.ExamenesToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.IngresarToolStripMenuItem, Me.VerificarToolStripMenuItem, Me.NotasToolStripMenuItem1})
         Me.ExamenesToolStripMenuItem.Name = "ExamenesToolStripMenuItem"
-        Me.ExamenesToolStripMenuItem.Size = New System.Drawing.Size(71, 19)
-        Me.ExamenesToolStripMenuItem.Text = "Examenes"
+        Me.ExamenesToolStripMenuItem.Size = New System.Drawing.Size(74, 19)
+        Me.ExamenesToolStripMenuItem.Text = "Reuniones"
         '
         'IngresarToolStripMenuItem
         '
         Me.IngresarToolStripMenuItem.Name = "IngresarToolStripMenuItem"
-        Me.IngresarToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.IngresarToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.IngresarToolStripMenuItem.Text = "Ingresar"
         '
         'VerificarToolStripMenuItem
         '
         Me.VerificarToolStripMenuItem.Name = "VerificarToolStripMenuItem"
-        Me.VerificarToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.VerificarToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.VerificarToolStripMenuItem.Text = "Verificar"
         '
         'NotasToolStripMenuItem1
         '
         Me.NotasToolStripMenuItem1.Name = "NotasToolStripMenuItem1"
-        Me.NotasToolStripMenuItem1.Size = New System.Drawing.Size(152, 22)
+        Me.NotasToolStripMenuItem1.Size = New System.Drawing.Size(180, 22)
         Me.NotasToolStripMenuItem1.Text = "Notas"
         '
         'ConsultaToolStripMenuItem3

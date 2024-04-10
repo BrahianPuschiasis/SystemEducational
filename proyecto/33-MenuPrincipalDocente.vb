@@ -149,4 +149,8 @@
         Me.Close()
 
     End Sub
+
+    Private Sub ExamenesToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ExamenesToolStripMenuItem.Click
+
+    End Sub
 End Class

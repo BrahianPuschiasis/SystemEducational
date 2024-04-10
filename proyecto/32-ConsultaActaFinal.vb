@@ -607,22 +607,39 @@ Public Class ConsultaActaFinal
         While datosAlumno.Read
             Dim notasAlumno As OdbcDataReader
             Dim cel As Integer
-            cel = datosAlumno("ci")
+            cel = Convert.ToInt32(datosAlumno("ci"))
 
-            notasAlumno = Cmd.ExecuteReader()
-            sql = "select cursan.inasistencias,cursan.nota,asignatura.idasig from cursan,concurren,grupo,actaf,asignatura where asignatura.idasig = cursan.idasig and actaf.n_actaf= " & cmbgrupo.Text & " and cursan.n_actaf = actaf.n_actaf and actaf.idgrupo = grupo.idgrupo and concurren.ci = cursan.ci and concurren.idgrupo = grupo.idgrupo and cursan.ci = " & cel & " group by cursan.nota,concurren.ci,asignatura.idasig,cursan.inasistencias order by asignatura.idasig"
+            ' Construye la fila HTML para este alumno
+            Dim filaHTML As String = "<tr>"
+            ' Realiza la consulta para obtener las notas e inasistencias del alumno
+            sql = "select cursan.inasistencias, cursan.nota, asignatura.idasig " &
+        "from cursan " &
+        "inner join asignatura on asignatura.idasig = cursan.idasig " &
+        "inner join actaf on cursan.n_actaf = actaf.n_actaf " &
+        "inner join grupo on actaf.idgrupo = grupo.idgrupo " &
+        "inner join concurren on concurren.ci = cursan.ci " &
+        "where grupo.idgrupo = " & grupo & " and concurren.ci = " & cel & " " &
+        "group by cursan.nota, cursan.inasistencias, asignatura.idasig " &
+        "order by asignatura.idasig"
+
             Cmd.CommandText = sql
+            notasAlumno = Cmd.ExecuteReader()
 
+            ' Concatena las notas e inasistencias a la fila HTML
             While notasAlumno.Read
-
-                rep = rep & "<td height='30'>" & notasAlumno("nota") & "</td>" & _
-                            "<td height='30'>" & notasAlumno("inasistencias") & "</td>"
+                filaHTML &= "<td height='30'>" & notasAlumno("nota") & "</td>" &
+                    "<td height='30'>" & notasAlumno("inasistencias") & "</td>"
             End While
 
             notasAlumno.Close()
-            rep = rep & "</tr>"
-                 
+
+            ' Cierra la fila HTML
+            filaHTML &= "</tr>"
+
+            ' Agrega la fila HTML a la variable "rep"
+            rep &= filaHTML
         End While
+
 
         datosAlumno.Close()
         rep = rep & "</tr>" & _
