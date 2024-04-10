@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\1-ingreso.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\boletin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|solutionrelative:proyecto\\boletin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\boletin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|solutionrelative:proyecto\\boletin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|c:\\users\\administrador\\documents\\digital tech developer\\proyectos viejos\\programa final nuevo\\proyectodvs\\projects\\projects\\proyecto\\1-ingreso.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|solutionrelative:proyecto\\1-ingreso.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
@@ -15,19 +23,19 @@
       "RelativeMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|solutionrelative:proyecto\\1-ingreso.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|c:\\users\\administrador\\documents\\digital tech developer\\proyectos viejos\\programa final nuevo\\proyectodvs\\projects\\projects\\proyecto\\2-menuprincipaladministrativo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\2-menuprincipaladministrativo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|solutionrelative:proyecto\\2-menuprincipaladministrativo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|c:\\users\\administrador\\documents\\digital tech developer\\proyectos viejos\\programa final nuevo\\proyectodvs\\projects\\projects\\proyecto\\2-menuprincipaladministrativo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\2-menuprincipaladministrativo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|solutionrelative:proyecto\\2-menuprincipaladministrativo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|c:\\users\\administrador\\documents\\digital tech developer\\proyectos viejos\\programa final nuevo\\proyectodvs\\projects\\projects\\proyecto\\34-menuprincipalalumno.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\34-menuprincipalalumno.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|solutionrelative:proyecto\\34-menuprincipalalumno.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|c:\\users\\administrador\\documents\\digital tech developer\\proyectos viejos\\programa final nuevo\\proyectodvs\\projects\\projects\\proyecto\\34-menuprincipalalumno.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\34-menuprincipalalumno.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|solutionrelative:proyecto\\34-menuprincipalalumno.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
@@ -47,15 +55,7 @@
       "RelativeMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|solutionrelative:proyecto\\4-altaadministrativo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\boletin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|solutionrelative:proyecto\\boletin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\boletin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|solutionrelative:proyecto\\boletin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|c:\\users\\administrador\\documents\\digital tech developer\\proyectos viejos\\programa final nuevo\\proyectodvs\\projects\\projects\\proyecto\\27-consultapersonas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\27-consultapersonas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{214ACE9D-3D5E-4DCC-989B-9EBAF7687169}|proyecto\\DvS.vbproj|solutionrelative:proyecto\\27-consultapersonas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
@@ -221,7 +221,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
@@ -244,19 +244,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "34-MenuPrincipalAlumno.vb",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\34-MenuPrincipalAlumno.vb",
-              "RelativeDocumentMoniker": "proyecto\\34-MenuPrincipalAlumno.vb",
-              "ToolTip": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\34-MenuPrincipalAlumno.vb",
-              "RelativeToolTip": "proyecto\\34-MenuPrincipalAlumno.vb",
-              "ViewState": "AQIAABUAAAAAAAAAAAA5wCUAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-04-10T06:10:29.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "2-MenuPrincipalAdministrativo.vb",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\2-MenuPrincipalAdministrativo.vb",
               "RelativeDocumentMoniker": "proyecto\\2-MenuPrincipalAdministrativo.vb",
@@ -269,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "2-MenuPrincipalAdministrativo.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\2-MenuPrincipalAdministrativo.vb",
               "RelativeDocumentMoniker": "proyecto\\2-MenuPrincipalAdministrativo.vb",
@@ -281,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "4-AltaAdministrativo.vb",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\4-AltaAdministrativo.vb",
               "RelativeDocumentMoniker": "proyecto\\4-AltaAdministrativo.vb",
@@ -294,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "1-Ingreso.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\1-Ingreso.vb",
               "RelativeDocumentMoniker": "proyecto\\1-Ingreso.vb",
@@ -306,20 +293,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "1-Ingreso.vb",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\1-Ingreso.vb",
               "RelativeDocumentMoniker": "proyecto\\1-Ingreso.vb",
               "ToolTip": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\1-Ingreso.vb",
               "RelativeToolTip": "proyecto\\1-Ingreso.vb",
-              "ViewState": "AQIAAF4AAAAAAAAAAAAgwHAAAAAcAAAA",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAgwG0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-04-09T00:23:46.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Funciones y Variables publicas.vb",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\Funciones y Variables publicas.vb",
               "RelativeDocumentMoniker": "proyecto\\Funciones y Variables publicas.vb",
@@ -332,7 +319,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
+              "Title": "Boletin.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\Boletin.vb",
+              "RelativeDocumentMoniker": "proyecto\\Boletin.vb",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\Boletin.vb [Dise\u00F1o]",
+              "RelativeToolTip": "proyecto\\Boletin.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-09T05:26:39.494Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Boletin.vb",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\Boletin.vb",
+              "RelativeDocumentMoniker": "proyecto\\Boletin.vb",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\Boletin.vb",
+              "RelativeToolTip": "proyecto\\Boletin.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-09T04:49:53.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "34-MenuPrincipalAlumno.vb",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\34-MenuPrincipalAlumno.vb",
+              "RelativeDocumentMoniker": "proyecto\\34-MenuPrincipalAlumno.vb",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\34-MenuPrincipalAlumno.vb",
+              "RelativeToolTip": "proyecto\\34-MenuPrincipalAlumno.vb",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-10T06:10:29.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "4-AltaAdministrativo.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\4-AltaAdministrativo.vb",
               "RelativeDocumentMoniker": "proyecto\\4-AltaAdministrativo.vb",
@@ -344,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "34-MenuPrincipalAlumno.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\34-MenuPrincipalAlumno.vb",
               "RelativeDocumentMoniker": "proyecto\\34-MenuPrincipalAlumno.vb",
@@ -356,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "33-MenuPrincipalDocente.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\33-MenuPrincipalDocente.vb",
               "RelativeDocumentMoniker": "proyecto\\33-MenuPrincipalDocente.vb",
@@ -368,41 +393,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "33-MenuPrincipalDocente.vb",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\33-MenuPrincipalDocente.vb",
               "RelativeDocumentMoniker": "proyecto\\33-MenuPrincipalDocente.vb",
               "ToolTip": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\33-MenuPrincipalDocente.vb",
               "RelativeToolTip": "proyecto\\33-MenuPrincipalDocente.vb",
-              "ViewState": "AQIAAEEAAAAAAAAAAAA5wFEAAAAXAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAgwFEAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-04-10T05:45:41.558Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Boletin.vb",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\Boletin.vb",
-              "RelativeDocumentMoniker": "proyecto\\Boletin.vb",
-              "ToolTip": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\Boletin.vb",
-              "RelativeToolTip": "proyecto\\Boletin.vb",
-              "ViewState": "AQIAAIMBAAAAAAAAAAAcwM4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-04-09T04:49:53.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Boletin.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\Boletin.vb",
-              "RelativeDocumentMoniker": "proyecto\\Boletin.vb",
-              "ToolTip": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\Boletin.vb [Dise\u00F1o]",
-              "RelativeToolTip": "proyecto\\Boletin.vb [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-04-09T05:26:39.494Z",
-              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -450,7 +450,8 @@
               "ToolTip": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\27-ConsultaPersonas.vb [Dise\u00F1o]",
               "RelativeToolTip": "proyecto\\27-ConsultaPersonas.vb [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-04-10T05:47:36.93Z"
+              "WhenOpened": "2024-04-10T05:47:36.93Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -573,7 +574,7 @@
               "RelativeDocumentMoniker": "proyecto\\ModificarNotaActaFinal.Designer.vb",
               "ToolTip": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\ModificarNotaActaFinal.Designer.vb",
               "RelativeToolTip": "proyecto\\ModificarNotaActaFinal.Designer.vb",
-              "ViewState": "AQIAAFgAAAAAAAAAAIBJwFsAAAA2AAAA",
+              "ViewState": "AQIAAFUAAAAAAAAAAIBZwFsAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-04-09T04:49:57.526Z",
               "EditorCaption": ""
@@ -637,7 +638,7 @@
               "RelativeDocumentMoniker": "proyecto\\7-AltaAsignatura.Designer.vb",
               "ToolTip": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\7-AltaAsignatura.Designer.vb",
               "RelativeToolTip": "proyecto\\7-AltaAsignatura.Designer.vb",
-              "ViewState": "AQIAANcAAAAAAAAAAIBJwNoAAAAyAAAA",
+              "ViewState": "AQIAANQAAAAAAAAAAIBZwNoAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-04-09T03:46:54.245Z",
               "EditorCaption": ""
@@ -650,7 +651,7 @@
               "RelativeDocumentMoniker": "proyecto\\8-AltaActaExamen.Designer.vb",
               "ToolTip": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\8-AltaActaExamen.Designer.vb",
               "RelativeToolTip": "proyecto\\8-AltaActaExamen.Designer.vb",
-              "ViewState": "AQIAAGoBAAAAAAAAAIBJwG0BAAAyAAAA",
+              "ViewState": "AQIAAGcBAAAAAAAAAIBZwG0BAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-04-09T03:46:55.151Z",
               "EditorCaption": ""
@@ -663,7 +664,7 @@
               "RelativeDocumentMoniker": "proyecto\\9-AltaActaFinal.Designer.vb",
               "ToolTip": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\9-AltaActaFinal.Designer.vb",
               "RelativeToolTip": "proyecto\\9-AltaActaFinal.Designer.vb",
-              "ViewState": "AQIAABwBAAAAAAAAAIBJwCABAAAAAAAA",
+              "ViewState": "AQIAABkBAAAAAAAAAIBZwCABAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-04-09T03:46:55.819Z",
               "EditorCaption": ""
@@ -676,7 +677,7 @@
               "RelativeDocumentMoniker": "proyecto\\AltaOrientacion.Designer.vb",
               "ToolTip": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\AltaOrientacion.Designer.vb",
               "RelativeToolTip": "proyecto\\AltaOrientacion.Designer.vb",
-              "ViewState": "AQIAADwBAAAAAAAAAIBJwFABAAAJAAAA",
+              "ViewState": "AQIAADkBAAAAAAAAAIBZwFABAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-04-09T03:46:56.631Z",
               "EditorCaption": ""
@@ -689,7 +690,7 @@
               "RelativeDocumentMoniker": "proyecto\\6-AltaGrupo.Designer.vb",
               "ToolTip": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\6-AltaGrupo.Designer.vb",
               "RelativeToolTip": "proyecto\\6-AltaGrupo.Designer.vb",
-              "ViewState": "AQIAAG4BAAAAAAAAAIBJwHEBAAAyAAAA",
+              "ViewState": "AQIAAGsBAAAAAAAAAIBZwHEBAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-04-09T03:46:53.478Z",
               "EditorCaption": ""
@@ -702,7 +703,7 @@
               "RelativeDocumentMoniker": "proyecto\\4-AltaAdministrativo.Designer.vb",
               "ToolTip": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\4-AltaAdministrativo.Designer.vb",
               "RelativeToolTip": "proyecto\\4-AltaAdministrativo.Designer.vb",
-              "ViewState": "AQIAAJsBAAAAAAAAAIBJwJ4BAAAiAAAA",
+              "ViewState": "AQIAAJgBAAAAAAAAAIBZwJ4BAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-04-09T03:46:52.036Z",
               "EditorCaption": ""
@@ -715,7 +716,7 @@
               "RelativeDocumentMoniker": "proyecto\\36-Ingrese Nota Acta Final.Designer.vb",
               "ToolTip": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\36-Ingrese Nota Acta Final.Designer.vb",
               "RelativeToolTip": "proyecto\\36-Ingrese Nota Acta Final.Designer.vb",
-              "ViewState": "AQIAAC4BAAAAAAAAAIBJwDEBAAAyAAAA",
+              "ViewState": "AQIAACsBAAAAAAAAAIBZwDEBAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-04-09T03:46:50.771Z",
               "EditorCaption": ""
@@ -728,7 +729,7 @@
               "RelativeDocumentMoniker": "proyecto\\35-Ingresar Nota Acta Examen.Designer.vb",
               "ToolTip": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\35-Ingresar Nota Acta Examen.Designer.vb",
               "RelativeToolTip": "proyecto\\35-Ingresar Nota Acta Examen.Designer.vb",
-              "ViewState": "AQIAABsBAAAAAAAAAIBJwB4BAAAyAAAA",
+              "ViewState": "AQIAABgBAAAAAAAAAIBZwB4BAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-04-09T03:46:48.537Z",
               "EditorCaption": ""
@@ -741,7 +742,7 @@
               "RelativeDocumentMoniker": "proyecto\\3-AltaDocente.Designer.vb",
               "ToolTip": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\3-AltaDocente.Designer.vb",
               "RelativeToolTip": "proyecto\\3-AltaDocente.Designer.vb",
-              "ViewState": "AQIAAMQBAAAAAAAAAIBJwMcBAAAyAAAA",
+              "ViewState": "AQIAAMEBAAAAAAAAAIBZwMcBAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-04-09T03:46:46.94Z",
               "EditorCaption": ""
@@ -754,7 +755,7 @@
               "RelativeDocumentMoniker": "proyecto\\2-MenuPrincipalAdministrativo.Designer.vb",
               "ToolTip": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\2-MenuPrincipalAdministrativo.Designer.vb",
               "RelativeToolTip": "proyecto\\2-MenuPrincipalAdministrativo.Designer.vb",
-              "ViewState": "AQIAAGIAAAAAAAAAAIBJwGUAAAAyAAAA",
+              "ViewState": "AQIAAF8AAAAAAAAAAIBZwGUAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-04-09T03:46:45.267Z",
               "EditorCaption": ""
@@ -767,7 +768,7 @@
               "RelativeDocumentMoniker": "proyecto\\16-BajaInstituto.Designer.vb",
               "ToolTip": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\16-BajaInstituto.Designer.vb",
               "RelativeToolTip": "proyecto\\16-BajaInstituto.Designer.vb",
-              "ViewState": "AQIAAAYBAAAAAAAAAIBJwAkBAAAyAAAA",
+              "ViewState": "AQIAAAMBAAAAAAAAAIBZwAkBAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-04-09T03:46:44.35Z",
               "EditorCaption": ""
@@ -780,7 +781,7 @@
               "RelativeDocumentMoniker": "proyecto\\15-BajaAsignatura.Designer.vb",
               "ToolTip": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\15-BajaAsignatura.Designer.vb",
               "RelativeToolTip": "proyecto\\15-BajaAsignatura.Designer.vb",
-              "ViewState": "AQIAAAYBAAAAAAAAAIBJwAkBAAAyAAAA",
+              "ViewState": "AQIAAAMBAAAAAAAAAIBZwAkBAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-04-09T03:46:43.582Z",
               "EditorCaption": ""
@@ -793,7 +794,7 @@
               "RelativeDocumentMoniker": "proyecto\\14-BajaGrupo.Designer.vb",
               "ToolTip": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\14-BajaGrupo.Designer.vb",
               "RelativeToolTip": "proyecto\\14-BajaGrupo.Designer.vb",
-              "ViewState": "AQIAAAYBAAAAAAAAAIBJwAkBAAAyAAAA",
+              "ViewState": "AQIAAAMBAAAAAAAAAIBZwAkBAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-04-09T03:46:42.342Z",
               "EditorCaption": ""
@@ -806,7 +807,7 @@
               "RelativeDocumentMoniker": "proyecto\\10-AltaInstituto.Designer.vb",
               "ToolTip": "C:\\Users\\Administrador\\Documents\\Digital Tech Developer\\Proyectos viejos\\Programa final nuevo\\ProyectoDvS\\Projects\\Projects\\proyecto\\10-AltaInstituto.Designer.vb",
               "RelativeToolTip": "proyecto\\10-AltaInstituto.Designer.vb",
-              "ViewState": "AQIAAEkBAAAAAAAAAIBJwFIBAAAyAAAA",
+              "ViewState": "AQIAAEYBAAAAAAAAAIBZwFIBAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-04-09T03:46:38.661Z",
               "EditorCaption": ""
