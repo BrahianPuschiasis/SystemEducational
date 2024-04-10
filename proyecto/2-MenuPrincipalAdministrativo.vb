@@ -310,6 +310,12 @@
     End Sub
 
     Private Sub btndcerrarsesion_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btndcerrarsesion.Click
+
+
+
+        conect.Close()
+        conect2.Close()
+
         Ingreso.Close()
 
         Ingreso.Show()

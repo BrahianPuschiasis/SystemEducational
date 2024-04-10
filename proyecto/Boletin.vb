@@ -288,30 +288,67 @@ Public Class Boletin
 
 
             rep = rep & "<div id='apDiv3'>" &
-                            "<div align='center'>Reunion final</div>" &
-                        "</div>" &
-        "<div id='apDiv4'>" &
-        "<table width='900' border='1'>" &
-        "<tr>" &
-          "<td width='162' height='20'><div align='center'>Asignatura</div></td>" &
-          "<td width='162' height='20'><div align='center'>Inasistencias</div></td>" &
-          "<td width='163' height='20'><div align='center'>Rendimiento</div></td>" &
-          "<td width='163' height='20'><div align='center'>Calidad</div></td>" &
-        "</tr>"
-            'consultas
-            sql = "select cursan.nota,cursan.inasistencias,asignatura.nombre,cursan.fallo from cursan,grupo,asignatura where cursan.ci=" & cilogin & " and cursan.idasig = asignatura.idasig group by cursan.nota,cursan.inasistencias,asignatura.nombre,cursan.fallo"
+               "<div align='center'>Reunion final</div>" &
+           "</div>" &
+           "<div id='apDiv4'>" &
+           "<table width='900' border='1'>" &
+           "<tr>" &
+             "<td width='162' height='20'><div align='center'>Asignatura</div></td>" &
+             "<td width='162' height='20'><div align='center'>Inasistencias</div></td>" &
+             "<td width='163' height='20'><div align='center'>Rendimiento</div></td>" &
+             "<td width='163' height='20'><div align='center'>Calidad</div></td>" &
+           "</tr>"
+
+            ' Consulta SQL para obtener datos de notas, inasistencias y calidad
+            sql = "SELECT cursan.nota, cursan.inasistencias, asignatura.nombre, cursan.fallo " &
+      "FROM cursan " &
+      "INNER JOIN asignatura ON cursan.idasig = asignatura.idasig " &
+      "WHERE cursan.ci=" & cilogin & " " &
+      "GROUP BY cursan.nota, cursan.inasistencias, asignatura.nombre, cursan.fallo"
             Cmd.CommandText = sql
             Dim notas As OdbcDataReader
             notas = Cmd.ExecuteReader()
+
             While notas.Read
+                ' Obtener datos de la consulta
+                Dim nombre As String = notas("nombre").ToString()
+                Dim inasistencias As Integer
+                Dim nota As Double
+                Dim calidad As String
+
+                ' Verificar si el valor de inasistencias no es nulo
+                If Not IsDBNull(notas("inasistencias")) Then
+                    inasistencias = Convert.ToInt32(notas("inasistencias"))
+                Else
+                    inasistencias = 0 ' o cualquier valor predeterminado que desees asignar
+                End If
+
+                ' Verificar si el valor de nota no es nulo
+                If Not IsDBNull(notas("nota")) Then
+                    nota = Convert.ToDouble(notas("nota"))
+                Else
+                    nota = 0.0 ' o cualquier valor predeterminado que desees asignar
+                End If
+
+                ' Verificar si el valor de calidad no es nulo
+                If Not IsDBNull(notas("fallo")) Then
+                    calidad = notas("fallo").ToString()
+                Else
+                    calidad = "Sin información" ' o cualquier valor predeterminado que desees asignar
+                End If
+
+                ' Agregar fila a la tabla con los datos obtenidos
                 rep = rep & "<tr>" &
-                              "<td width='162' height='20'>" & notas("nombre") & "</td>" &
-                              "<td width='162' height='20'>" & notas("inasistencias") & "</td>" &
-                              "<td width='163' height='20'>" & notas("nota") & "</td>" &
-                              "<td width='163' height='20'></td>" &
-                            "</tr>"
+                  "<td width='162' height='20'>" & nombre & "</td>" &
+                  "<td width='162' height='20'>" & inasistencias & "</td>" &
+                  "<td width='163' height='20'>" & nota & "</td>" &
+                  "<td width='163' height='20'>" & calidad & "</td>" &
+                "</tr>"
             End While
+
+
             notas.Close()
+
             rep = rep & "</table>" &
                         "</div>"
             'consultas
